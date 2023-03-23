@@ -2,7 +2,7 @@
 
 >Modulos gratuitos para el script VpsPack
 
-Para importar usa :
+Para importar utiliza :
 
 ```
 wget -O /root/scripts/ http://github.com/powermx/modulosvpspack/raw/archivo.sh
