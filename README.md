@@ -4,11 +4,15 @@
 
 Para importar usa :
 
-`wget -O /root/scripts/ http://github.com/powermx/modulosvpspack/raw/archivo.sh`
+```
+wget -O /root/scripts/ http://github.com/powermx/modulosvpspack/raw/archivo.sh
+```
 
 No olvides dar los permisos de ejecución de cada archivos :
 
-`chmod +x /root/scripts/archivo.sh`
+```
+chmod +x /root/scripts/archivo.sh
+```
 
 Cualquier duda, no olvides preguntarnos en nuestro grupo de Telegram
 
